@@ -5,6 +5,7 @@ const camposDoForm = document.querySelectorAll('[required]');
 
 camposDoForm.forEach((campo) => {
   campo.addEventListener('blur', () => verificarCampo(campo));
+  campo.addEventListener('invalid', evento => evento.preventDefault());
 })
 
 function verificarCampo(campo) {
@@ -15,4 +16,6 @@ function verificarCampo(campo) {
   if (campo.name == 'aniversario' && campo.value != '') {
     ehMaiorDeIdade(campo);
   }
+
+  console.log(campo.validity);
 }
