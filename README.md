@@ -1,13 +1,13 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+# PatryBank
 
-<hr>
+<p>Formulário de criação de contas para o banco virtual PatryBank e habilitação da câmera para tirar foto.</p>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
-
-## Tecnologias utilizadas durante o curso
-* JavaScript
-
-## Tecnologias utilizadas no projeto
+## Tecnologias utilizadas
 * HTML
 * CSS
+* JavaScript
+
+## Imagens
+![image](https://github.com/PatsFerrer/Javascript_PatryBank/assets/124654139/cdcd5ef1-39bd-45f5-a1bd-b5f60e22ecad)
+![image](https://github.com/PatsFerrer/Javascript_PatryBank/assets/124654139/65bba183-7498-48fa-af11-2b5dda2c9f9b)
+![image](https://github.com/PatsFerrer/Javascript_PatryBank/assets/124654139/00e6fd4d-3d41-4e53-8c1d-b74d1ce9ec98)
